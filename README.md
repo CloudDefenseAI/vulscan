@@ -1,4 +1,4 @@
-# vulscan - Vulnerability Scanning with Nmap (Modified version for CloudDefense Usage)
+# Vulnerability Scanning with Nmap
 
 <p align="center">
 <img src="./logo.png" width="300px">
@@ -7,8 +7,6 @@
 ## Introduction
 
 Vulscan is a module which enhances nmap to a vulnerability scanner. The nmap option -sV enables version detection per service which is used to determine potential flaws according to the identified product. The data is looked up in an offline version of VulDB.
-
-![Nmap NSE Vulscan](https://www.computec.ch/projekte/vulscan/introduction/screenshot.png)
 
 ## Installation
 
