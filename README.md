@@ -1,4 +1,4 @@
-# vulscan - Vulnerability Scanning with Nmap
+# vulscan - Vulnerability Scanning with Nmap (Modified version for CloudDefense Usage)
 
 <p align="center">
 <img src="./logo.png" width="300px">
@@ -18,7 +18,7 @@ Please install the files into the following folder of your Nmap installation:
 
 Clone the GitHub repository like this:
 
-    git clone https://github.com/scipag/vulscan scipag_vulscan
+    git clone https://github.com/rohitcoderCdefense/vulscan scipag_vulscan
     ln -s `pwd`/scipag_vulscan /usr/share/nmap/scripts/vulscan    
 
 ## Usage
